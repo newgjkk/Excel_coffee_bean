@@ -1,6 +1,6 @@
 # Coffee Bean EXCEL Project
 
-![coffee_bean](https://github.com/newgjkk/Excel_coffee_bean/blob/main/coffee_bean.jpg)
+![coffee_bean](https://github.com/newgjkk/Excel_coffee_bean/blob/main/coffee_bean.JPG)
 
 ## Overview
 
