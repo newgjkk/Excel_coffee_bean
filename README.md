@@ -1,6 +1,6 @@
 # Coffee Bean EXCEL Project
 
-![Spotify Logo](https://github.com/newgjkk/Spotify_SQL_project/blob/main/coffee_bean.jpg)
+![coffee_bean](https://github.com/newgjkk/Spotify_SQL_project/blob/main/coffee_bean.jpg)
 
 ## Overview
 
